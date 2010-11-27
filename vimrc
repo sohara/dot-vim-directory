@@ -4,6 +4,14 @@ set number
 set ruler
 syntax on
 
+" set font face and size
+set guifont=Monaco:h13
+"set scrollbars to disappear
+set guioptions=aAce
+
+" set transparency
+set transparency=5
+
 " Whitespace stuff
 set nowrap
 set tabstop=2
